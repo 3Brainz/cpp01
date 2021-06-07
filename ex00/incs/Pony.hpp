@@ -16,7 +16,4 @@ public:
 	void		lookAtThisPony();
 };
 
-void	ponyOnTheHeap();
-void	ponyOnTheStack();
-
 #endif
